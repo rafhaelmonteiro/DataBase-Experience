@@ -8,3 +8,5 @@ Desafio git: criar um repositório no github ✅
 Comando: 
 
 git config --list => Lista todas as configurações do git
+
+verificar user email e user nickname, se eles são os mesmo do controle de versão utilizado.
