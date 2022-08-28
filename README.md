@@ -19,3 +19,9 @@ git config --global --unset user.email ou git config --global --unset user.nickn
 para adicionar o usuário ou nickname usar o comando:
 
 git config --global user.email "rafhaelmonteiro@gmail.com" ou git config --global user.nickname "rafhaelmonteiro"
+
+adicionar o remote origin do repositório:
+
+git remote add origin https://github.com/rafhaelmonteiro/DataBase-Experience.git
+
+git push origin main
